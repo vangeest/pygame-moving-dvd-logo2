@@ -23,3 +23,5 @@ while True:
 
     pygame.display.flip()
     time.sleep(10 / 1000)
+
+#test
